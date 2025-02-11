@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.1" created="2025-02-11 12:45" -->
+	<!-- generator="WordPress/6.7.1" created="2025-02-11 12:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,16 +26,17 @@
 >
 
 <channel>
-	<title>TestIE-JoenInva</title>
-	<link>http://127.0.0.1:8000</link>
-	<description>I am a site tagline</description>
-	<pubDate>Tue, 11 Feb 2025 12:45:07 +0000</pubDate>
+	<title>test 1</title>
+	<link>http://localhost:8000</link>
+	<description></description>
+	<pubDate>Tue, 11 Feb 2025 12:47:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://127.0.0.1:8000</wp:base_site_url>
-	<wp:base_blog_url>http://127.0.0.1:8000</wp:base_blog_url>
+	<wp:base_site_url>http://localhost:8000</wp:base_site_url>
+	<wp:base_blog_url>http://localhost:8000</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[n4m30fus3r]]></wp:author_login><wp:author_email><![CDATA[erraticum@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[n4m30fus3r]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[sujan]]></wp:author_login><wp:author_email><![CDATA[sujanregme@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[sujan]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[n4m30fus3r]]></wp:author_login><wp:author_email><![CDATA[erraticum@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[n4m30fus3r]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>3</wp:term_id>
@@ -86,10 +87,223 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 		<item>
+		<title><![CDATA[Hello world!]]></title>
+		<link>http://localhost:8000/?p=1</link>
+		<pubDate>Sun, 02 Feb 2025 18:21:31 +0000</pubDate>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/?p=1</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-02 18:21:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-02 18:21:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-02 18:21:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-02 18:21:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[hello-world]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:comment>
+			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
+			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2025-02-02 18:21:31]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2025-02-02 18:21:31]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
+					</item>
+					<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>http://localhost:8000/?page_id=2</link>
+		<pubDate>Sun, 02 Feb 2025 18:21:31 +0000</pubDate>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://localhost:8000/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-02 18:21:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-02 18:21:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-02 18:21:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-02 18:21:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>http://localhost:8000/?page_id=3</link>
+		<pubDate>Sun, 02 Feb 2025 18:21:31 +0000</pubDate>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we are</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Our website address is: http://localhost:8000.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Comments</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Media</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Cookies</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Embedded content from other websites</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Who we share your data with</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How long we retain your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+<!-- /wp:paragraph -->
+<!-- wp:paragraph -->
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">What rights you have over your data</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Where your data is sent</h2>
+<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><strong class="privacy-policy-tutorial">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p>
+<!-- /wp:paragraph -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>3</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-02 18:21:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-02 18:21:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-02 18:21:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-02 18:21:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>http://localhost:8000/?p=5</link>
+		<pubDate>Sun, 02 Feb 2025 18:23:12 +0000</pubDate>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/?p=5</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-02 18:23:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-02 18:23:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-02 18:23:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-02 18:23:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Hello coding team!]]></title>
-		<link>http://127.0.0.1:8000/?p=1</link>
+		<link>http://localhost:8000/?p=7</link>
 		<pubDate>Tue, 04 Feb 2025 11:55:02 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?p=1</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -108,19 +322,17 @@
 <!-- wp:list-item {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"x-large"} -->
 <li class="has-accent-4-color has-text-color has-link-color has-x-large-font-size">things</li>
 <!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:calendar /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Post-export, pre-import edited post]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
+<!-- /wp:list -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>7</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-04 11:55:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-11 12:04:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-11 10:04:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-02-04 11:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_name><![CDATA[hello-world-2]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
@@ -128,6 +340,58 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1739268269]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1739268269]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
@@ -152,7 +416,7 @@
 		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
+			<wp:comment_id>2</wp:comment_id>
 			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
 			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
 			<wp:comment_author_url>https://wordpress.org/</wp:comment_author_url>
@@ -161,28 +425,26 @@
 			<wp:comment_date_gmt><![CDATA[2025-02-04 11:55:02]]></wp:comment_date_gmt>
 			<wp:comment_content><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
+Commenter avatars come from <a href="https://gravatar.com/" rel="nofollow ugc">Gravatar</a>.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
 					<item>
-		<title><![CDATA[Page #1 base site - Tero]]></title>
-		<link>http://127.0.0.1:8000/?page_id=2</link>
+		<title><![CDATA[Sample Page]]></title>
+		<link>http://localhost:8000/?page_id=8</link>
 		<pubDate>Tue, 04 Feb 2025 11:55:02 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?page_id=2</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
-<p class="is-style-text-annotation">This is an example page, with short intro.</p>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p>
-<!-- /wp:paragraph --></blockquote>
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
@@ -190,25 +452,21 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
-<!-- /wp:paragraph --></blockquote>
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
 <p>As a new WordPress user, you should go to <a href="http://127.0.0.1:8000/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:calendar /-->]]></content:encoded>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
+		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-04 11:55:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-11 12:02:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-11 10:02:34]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-02-04 11:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page]]></wp:post_name>
+		<wp:post_name><![CDATA[sample-page-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -219,24 +477,12 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>http://127.0.0.1:8000/?page_id=3</link>
+		<link>http://localhost:8000/?page_id=9</link>
 		<pubDate>Tue, 04 Feb 2025 11:55:02 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?page_id=3</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading -->
@@ -313,7 +559,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:paragraph -->
 ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>3</wp:post_id>
+		<wp:post_id>9</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-04 11:55:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-02-04 11:55:02]]></wp:post_modified>
@@ -335,17 +581,37 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://127.0.0.1:8000/?p=5</link>
+		<link>http://localhost:8000/?p=10</link>
 		<pubDate>Tue, 04 Feb 2025 11:56:26 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?p=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
+		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-04 11:56:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-04 11:56:26]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-02-04 11:56:26]]></wp:post_modified>
@@ -363,21 +629,21 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 						</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://127.0.0.1:8000/?p=6</link>
+		<link>http://localhost:8000/?p=11</link>
 		<pubDate>Tue, 04 Feb 2025 11:56:30 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?p=6</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
+		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-04 11:56:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-04 11:56:30]]></wp:post_date_gmt>
 		<wp:post_modified><![CDATA[2025-02-04 11:56:30]]></wp:post_modified>
 		<wp:post_modified_gmt><![CDATA[2025-02-04 11:56:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -386,8 +652,104 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Page #1 base site - Tero]]></title>
+		<link>http://localhost:8000/?page_id=13</link>
+		<pubDate>Tue, 04 Feb 2025 11:55:02 +0000</pubDate>
+		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
+		<guid isPermaLink="false">http://127.0.0.1:8000/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation">This is an example page, with short intro.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p>
+<!-- /wp:paragraph --></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://127.0.0.1:8000/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:calendar /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-04 11:55:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-04 11:55:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-04 11:55:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page-3]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[footnotes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Blog Home]]></title>
-		<link>http://127.0.0.1:8000/?p=35</link>
+		<link>http://localhost:8000/?p=35</link>
 		<pubDate>Tue, 11 Feb 2025 08:38:52 +0000</pubDate>
 		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?p=35</guid>
@@ -437,8 +799,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2025-02-11 08:38:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-02-11 08:38:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-11 08:38:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-11 08:38:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-02-11 08:38:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-11 08:38:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -453,43 +815,18 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[1030p_Electric_guitar_parts]]></title>
-		<link>http://127.0.0.1:8000/?attachment_id=39</link>
-		<pubDate>Tue, 11 Feb 2025 10:04:00 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:8000/wp-content/uploads/2025/02/1030p_Electric_guitar_parts.jpeg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2025-02-11 12:04:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-02-11 10:04:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-11 12:04:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-11 10:04:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1030p_electric_guitar_parts]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://127.0.0.1:8000/wp-content/uploads/2025/02/1030p_Electric_guitar_parts.jpeg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/02/1030p_Electric_guitar_parts.jpeg]]></wp:meta_value>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:365;s:6:"height";i:831;s:4:"file";s:40:"2025/02/1030p_Electric_guitar_parts.jpeg";s:8:"filesize";i:54195;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:40:"1030p_Electric_guitar_parts-132x300.jpeg";s:5:"width";i:132;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8146;}s:9:"thumbnail";a:5:{s:4:"file";s:40:"1030p_Electric_guitar_parts-150x150.jpeg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4441;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Test post #1 - Tero]]></title>
-		<link>http://127.0.0.1:8000/?p=40</link>
+		<link>http://localhost:8000/?p=40</link>
 		<pubDate>Tue, 11 Feb 2025 10:08:51 +0000</pubDate>
 		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
 		<guid isPermaLink="false">http://127.0.0.1:8000/?p=40</guid>
@@ -532,298 +869,253 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Tero's test page #2 after base site]]></title>
-		<link>http://127.0.0.1:8000/?page_id=42</link>
-		<pubDate>Tue, 11 Feb 2025 12:43:20 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:8000/?page_id=42</guid>
+		<title><![CDATA[IMG_5316]]></title>
+		<link>http://localhost:8000/?attachment_id=43</link>
+		<pubDate>Tue, 11 Feb 2025 12:39:16 +0000</pubDate>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/wp-content/uploads/2025/02/IMG_5316.heic</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"align":"full","style":{"spacing":{"blockGap":{"left":"0"}}}} -->
-<div class="wp-block-columns alignfull"><!-- wp:column {"width":"55%"} -->
-<div class="wp-block-column" style="flex-basis:55%"><!-- wp:cover {"url":"http://127.0.0.1:8000/wp-content/themes/twentytwentyfive/assets/images/book-image-landing.webp","alt":"Image of the book","dimRatio":0,"customOverlayColor":"#6b6b6b","isDark":false,"style":{"dimensions":{"aspectRatio":"1"}},"layout":{"type":"default"}} -->
-<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim" style="background-color:#6b6b6b"></span><img class="wp-block-cover__image-background" alt="Image of the book" src="http://127.0.0.1:8000/wp-content/themes/twentytwentyfive/assets/images/book-image-landing.webp" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:spacer {"height":"var:preset|spacing|20"} -->
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>43</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-11 12:39:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-11 12:39:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-11 12:39:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-11 12:39:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[img_5316]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://localhost:8000/wp-content/uploads/2025/02/IMG_5316-scaled.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/02/IMG_5316-scaled.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:2560;s:6:"height";i:1920;s:4:"file";s:27:"2025/02/IMG_5316-scaled.jpg";s:8:"filesize";i:337437;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:20:"IMG_5316-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7948;}s:5:"large";a:5:{s:4:"file";s:21:"IMG_5316-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53665;}s:9:"thumbnail";a:5:{s:4:"file";s:20:"IMG_5316-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4770;}s:12:"medium_large";a:5:{s:4:"file";s:20:"IMG_5316-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31485;}s:9:"1536x1536";a:5:{s:4:"file";s:22:"IMG_5316-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119499;}s:9:"2048x2048";a:5:{s:4:"file";s:22:"IMG_5316-2048x1536.jpg";s:5:"width";i:2048;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:214271;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:13:"IMG_5316.heic";}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[test_sujan]]></title>
+		<link>http://localhost:8000/?page_id=46</link>
+		<pubDate>Tue, 11 Feb 2025 12:42:52 +0000</pubDate>
+		<dc:creator><![CDATA[sujan]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8000/?page_id=46</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull"><!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"align":"wide","fontSize":"x-large"} -->
+<h2 class="wp-block-heading alignwide has-x-large-font-size">My name is Anna Möller and these are some of my photo projects.</h2>
+<!-- /wp:heading --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:spacer {"height":"var:preset|spacing|20"} -->
 <div style="height:var(--wp--preset--spacing--20)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"}}}} -->
-<div class="wp-block-column is-vertically-aligned-center" style="padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60)"><!-- wp:heading {"className":"has-xx-large-font-size"} -->
-<h2 class="wp-block-heading has-xx-large-font-size">The Stories Book</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>A fine collection of moments in time featuring photographs from Louis Fleckenstein, Paul Strand and Asahachi Kōno.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">Available for pre-order now.</p>
-<!-- /wp:paragraph --></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained","contentSize":"800px"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:heading {"textAlign":"center","align":"wide","fontSize":"x-large"} -->
-<h2 class="wp-block-heading alignwide has-text-align-center has-x-large-font-size">Buy your copy of The Stories Book</h2>
-<!-- /wp:heading -->
-
-<!-- wp:buttons {"align":"wide","fontSize":"medium","layout":{"type":"flex","justifyContent":"center","flexWrap":"wrap"}} -->
-<div class="wp-block-buttons alignwide has-custom-font-size has-medium-font-size"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Amazon</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Audible</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Barnes &amp; Noble</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Apple Books</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Bookshop.org</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Spotify</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">BAM!</a></div>
-<!-- /wp:button -->
-
-<!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Simon &amp; Schuster</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons -->
-
-<!-- wp:paragraph {"align":"center","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Outside Europe? View <a href="#" rel="nofollow">international editions</a>.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|70"}}}} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":""} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"className":"wp-block-heading","fontSize":"xx-large"} -->
-<h2 class="wp-block-heading has-xx-large-font-size">About the book</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist. Fleckenstein’s evocative imagery, Strand’s groundbreaking modernist approach, and Kōno’s meticulous documentation of Japanese life come together in a harmonious blend that celebrates the art of photography. Each image in “The Stories Book” is accompanied by insightful commentary, providing historical context and revealing the stories behind the photographs. This collection is not only a visual feast but also a tribute to the power of photography to preserve and narrate the multifaceted experiences of humanity.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","width":"","layout":{"type":"default"}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://127.0.0.1:8000/wp-content/themes/twentytwentyfive/assets/images/book-image-landing.webp" alt="Image of a book" style="aspect-ratio:1;object-fit:cover"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"align":"full","className":"is-style-default","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|80"}}}} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"60%"} -->
-<div class="wp-block-column" style="flex-basis:60%"><!-- wp:group {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"wrap"}} -->
-<div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading -->
-<h2 class="wp-block-heading">International editions</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size">The Stories Book will be available from these international retailers.</p>
-<!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"40%"} -->
-<div class="wp-block-column" style="flex-basis:40%"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"","style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Australia</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Brazil</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Canada</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Japan</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"","style":{"spacing":{"blockGap":"var:preset|spacing|50"}}} -->
-<div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">New Zealand</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">Switzerland</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">United States</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
-<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"fontSize":"large"} -->
-<h3 class="wp-block-heading has-large-font-size" style="font-style:normal;font-weight:500">United Kingdom</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"medium"} -->
-<p class="has-medium-font-size"><a href="#">Book Store</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50"}},"layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:heading {"fontSize":"x-large"} -->
-<h2 class="wp-block-heading has-x-large-font-size">Frequently Asked Questions</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">What is The Stories Book about?</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">How much does The Stories Book cost?</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:query {"queryId":6,"query":{"perPage":1,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"layout":{"type":"default"}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /--></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"left":"var:preset|spacing|50"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">When will The Stories Book be released?</h3>
-<!-- /wp:heading -->
+<!-- wp:post-title {"isLink":true} /-->
 
+<!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
 <!-- wp:paragraph -->
-<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></div>
 <!-- /wp:column -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"default"}} -->
-<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Are signed copies available?</h3>
-<!-- /wp:heading -->
+<!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:query {"queryId":7,"query":{"perPage":1,"pages":0,"offset":"1","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"layout":{"type":"default"}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
 
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
 <!-- wp:paragraph -->
-<p>This exquisite compilation showcases a diverse array of photographs that capture the essence of different eras and cultures, reflecting the unique styles and perspectives of each artist.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"tagName":"aside","align":"full","className":"is-style-section-3","style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50","top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}},"dimensions":{"minHeight":""}},"layout":{"type":"constrained","contentSize":"800px"}} -->
-<aside class="wp-block-group alignfull is-style-section-3" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"dimensions":{"minHeight":"360px"},"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
-<div class="wp-block-group" style="min-height:360px;margin-top:0;margin-bottom:0"><!-- wp:heading {"textAlign":"center","fontSize":"xx-large"} -->
-<h2 class="wp-block-heading has-text-align-center has-xx-large-font-size">Sign up to get daily stories</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","className":"is-style-text-subtitle"} -->
-<p class="has-text-align-center is-style-text-subtitle">Get access to a curated collection of moments in time featuring photographs from historical relevance.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"0px","style":{"layout":{"flexSize":"20px","selfStretch":"fixed"}}} -->
-<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"textAlign":"center"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-text-align-center wp-element-button">Subscribe</a></div>
-<!-- /wp:button --></div>
-<!-- /wp:buttons --></div>
-<!-- /wp:group --></aside>
+<!-- wp:query {"queryId":8,"query":{"perPage":3,"pages":0,"offset":"2","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"grid","columnCount":3}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|20"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.33%"} -->
+<div class="wp-block-column" style="flex-basis:33.33%"><!-- wp:query {"queryId":9,"query":{"perPage":1,"pages":0,"offset":"5","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"layout":{"type":"default"}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"66.66%"} -->
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:query {"queryId":10,"query":{"perPage":1,"pages":0,"offset":"6","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"layout":{"type":"default"}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query {"queryId":11,"query":{"perPage":3,"pages":0,"offset":"7","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"grid","columnCount":3}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}},"typography":{"fontStyle":"normal","fontWeight":"300"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query -->
+
+<!-- wp:separator {"align":"full"} -->
+<hr class="wp-block-separator alignfull has-alpha-channel-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Twenty Twenty-Five</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">email@example.com<br>+1 555 349 1806</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2025-02-11 14:43:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-02-11 12:43:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-11 14:44:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-11 12:44:02]]></wp:post_modified_gmt>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2025-02-11 12:42:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-02-11 12:42:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-02-11 12:44:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-02-11 12:44:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[teros-test-page-2-after-base-site]]></wp:post_name>
+		<wp:post_name><![CDATA[46-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -831,35 +1123,6 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
-		<title><![CDATA[Tero's testpost #2 after base site]]></title>
-		<link>http://127.0.0.1:8000/?p=46</link>
-		<pubDate>Tue, 11 Feb 2025 12:44:46 +0000</pubDate>
-		<dc:creator><![CDATA[n4m30fus3r]]></dc:creator>
-		<guid isPermaLink="false">http://127.0.0.1:8000/?p=46</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2025-02-11 14:44:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-02-11 12:44:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-02-11 14:44:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-02-11 12:44:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[teros-testpost-2-after-base-site]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 				</channel>
 </rss>
 	
