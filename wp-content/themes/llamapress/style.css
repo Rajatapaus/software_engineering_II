@@ -1,0 +1,71 @@
+/*
+Theme Name: LlamaPress
+Theme URI: https://llamapress.com/
+Author: James Roberts
+Description: This is a basic, bare-bones block theme built to implement custom designs using the WordPress Site Editor. With no fancy patterns or style variations, this theme provides a clean and simple starting point for the majority of WordPress-based projects.
+Requires at least: 6.1.1
+Tested up to: 6.5
+Requires PHP: 5.6
+Version: 1.2.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: llamapress
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, accessibility-ready, blog, portfolio, news, template-editing
+*/
+
+/* -- Forms -- */
+
+input,
+select,
+textarea {
+	width: 100%;
+	max-width: -webkit-fill-available;
+	padding: 10px 15px;
+	border: 1px solid;
+	font-size: var(--wp--preset--font-size--small);
+	font-family: inherit;
+	font-weight: 300;
+	line-height: inherit;
+}
+
+input:focus,
+textarea:focus {
+	outline: none;
+}
+
+input[type="checkbox"],
+input[type="image"],
+input[type="radio"],
+input[type="submit"] {
+	width: auto;
+}
+
+input[type="button"],
+input[type="email"],
+input[type="search"],
+input[type="submit"],
+input[type="text"],
+textarea {
+	appearance: none;
+	-webkit-appearance: none;
+}
+
+input[type="submit"],
+input[type="button"] {
+	padding: calc(0.667em + 2px) calc(1.333em + 2px);
+	color: var(--wp--preset--color--primarycontrast);
+	background-color: var(--wp--preset--color--primary);
+	border: 0;
+	font-size: inherit;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	color: var(--wp--preset--color--secondarycontrast);
+	background-color: var(--wp--preset--color--secondary);
+}
+
+::placeholder {
+	opacity: 0.5;
+}
